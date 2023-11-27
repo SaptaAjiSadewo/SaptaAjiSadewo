@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaptaAjiSadewo
 - 👀 I’m interested in making project games and apps.
 - 🌱 I’m currently learning basic C++ and gdscript.
-- 💞️ I’m looking to collaborate on making project game.
+- 💞️ I’m looking to collaborate on making project game or making apps but for beginner hehe.
 - 📫 Reach me on instagram @sapta_si_badabalok and fb Sapta Aji Sadewo.
 
 <!---
